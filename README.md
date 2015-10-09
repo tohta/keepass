@@ -1,5 +1,5 @@
 Keepass
 =======
 
-cpanm --installdeps .
-perl keepass.pl <keepass-file>
+1. cpanm --installdeps .
+2. perl keepass.pl <keepass-file>
